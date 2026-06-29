@@ -1,14 +1,15 @@
-# View and Edit Word Document in React   
+# View and Edit Word Document in React DOCX Editor (Document Editor)
 
-This repository provides a working example of how to view and edit Word documents in a React application using the Syncfusion® Document Editor (a.k.a. Word Processor). It demonstrates seamless Word document (DOCX) editing and rendering directly in the browser, without Microsoft Word or Office interop dependencies. 
+This repository provides a working example of how to view and edit Word documents in a React application using the Syncfusion® [React DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor). It demonstrates seamless Word document (DOCX) editing and rendering directly in the browser, without Microsoft Word or Office interop dependencies. 
 
-# Resources 
+# Resources
 
-- **Product page:**   [Syncfusion® React Word Processor](https://www.syncfusion.com/react-components/react-docx-editor) 
+- **Product page:**   [Syncfusion® React DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Documentation:**   [Syncfusion® Word Processor](https://help.syncfusion.com/document-processing/word/word-processor/react/getting-started) 
+- **Documentation:**   [Syncfusion® React DOCX Editor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/react/overview?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Online demo:**   [Syncfusion® Word Processor - Demo](https://ej2.syncfusion.com/react/demos/) 
+- **Online demo:**   [Syncfusion® React DOCX Editor - Online demo](https://document.syncfusion.com/demos/docx-editor/react/#/tailwind3/document-editor/default?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
+
 
 # Support and feedback 
 
